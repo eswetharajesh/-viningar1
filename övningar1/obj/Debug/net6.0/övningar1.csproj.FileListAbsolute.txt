@@ -1,0 +1,14 @@
+C:\Projects\övningar1\övningar1\bin\Debug\net6.0\övningar1.exe
+C:\Projects\övningar1\övningar1\bin\Debug\net6.0\övningar1.deps.json
+C:\Projects\övningar1\övningar1\bin\Debug\net6.0\övningar1.runtimeconfig.json
+C:\Projects\övningar1\övningar1\bin\Debug\net6.0\övningar1.dll
+C:\Projects\övningar1\övningar1\bin\Debug\net6.0\övningar1.pdb
+C:\Projects\övningar1\övningar1\obj\Debug\net6.0\övningar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\övningar1\övningar1\obj\Debug\net6.0\övningar1.AssemblyInfoInputs.cache
+C:\Projects\övningar1\övningar1\obj\Debug\net6.0\övningar1.AssemblyInfo.cs
+C:\Projects\övningar1\övningar1\obj\Debug\net6.0\övningar1.csproj.CoreCompileInputs.cache
+C:\Projects\övningar1\övningar1\obj\Debug\net6.0\övningar1.dll
+C:\Projects\övningar1\övningar1\obj\Debug\net6.0\refint\övningar1.dll
+C:\Projects\övningar1\övningar1\obj\Debug\net6.0\övningar1.pdb
+C:\Projects\övningar1\övningar1\obj\Debug\net6.0\övningar1.genruntimeconfig.cache
+C:\Projects\övningar1\övningar1\obj\Debug\net6.0\ref\övningar1.dll
